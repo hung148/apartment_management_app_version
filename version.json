@@ -1,11 +1,11 @@
 {
   "android": {
     "version": "1.0.1",
-    "build_number": "2",
+    "build_number": "2"
   },
   "ios": {
     "version": "1.0.1",
-    "build_number": "2",
+    "build_number": "2"
   },
   "windows": {
     "version": "1.0.1",
