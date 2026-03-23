@@ -1,14 +1,14 @@
 {
   "android": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "build_number": "9"
   },
   "ios": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "build_number": "9"
   },
   "windows": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "build_number": "9",
     "download_url": "https://github.com/hung148/apartment_management_app_version/releases/download/v1.0.0/ApartmentManagement-v1.0.0.zip"
   }
